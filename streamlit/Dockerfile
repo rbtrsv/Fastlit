@@ -1,4 +1,4 @@
-FROM python:3.7-slim
+FROM python:3.11.6-slim
 
 RUN mkdir /streamlit
 
@@ -12,4 +12,4 @@ COPY . /streamlit
 
 EXPOSE 8501
 
-CMD ["streamlit", "run", "ui.py"]
+CMD ["streamlit", "run", "Home.py"]

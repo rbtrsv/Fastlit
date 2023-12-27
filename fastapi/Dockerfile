@@ -1,4 +1,4 @@
-FROM tiangolo/uvicorn-gunicorn:python3.7
+FROM python:3.11.6-slim
 
 RUN mkdir /fastapi
 
