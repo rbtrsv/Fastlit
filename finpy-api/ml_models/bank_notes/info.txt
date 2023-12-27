@@ -1,0 +1,1 @@
+https://kunal3836.medium.com/deployment-of-ml-model-using-fastapi-e1489873b20b

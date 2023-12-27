@@ -1,5 +1,15 @@
-streamlit run Home.py --server.port 8080
-uvicorn main:app --reload
+docker-compose up -d --build
+docker-compose stop
+docker-compose up -d
 
 pip freeze > requirements.txt
 pip install -r requirements.txt
+
+git rm -r --cached your_folder/
+
+python3 -m venv env311
+python3 -m pip install --upgrade [module]
+
+mlflow ui
+python train.py --t 'Response'
+python ml_models/health_insurance/train.py --t 'Response'

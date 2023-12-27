@@ -1,0 +1,4 @@
+H2O AutoML — Automatically train ML models in a series of experiments.
+MLflow — Track results and artifacts of each AutoML experiment and select the best model based on performance metrics.
+FastAPI — Deploy and expose the best model (via uvicorn server) as an API endpoint.
+Streamlit — Serve API endpoint as a web application with a simple user interface for model prediction requests.

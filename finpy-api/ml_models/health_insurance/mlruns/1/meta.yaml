@@ -1,0 +1,4 @@
+artifact_location: file:///Users/robert.radoslav/Developer/main/finpy-containerized-app/finpy-api/ml_models/health_insurance/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: automl-insurance

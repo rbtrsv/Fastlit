@@ -1,0 +1,4 @@
+artifact_location: file:///Users/robert.radoslav/Developer/main/finpy-containerized-app/finpy-api/ml_models/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: experiment2

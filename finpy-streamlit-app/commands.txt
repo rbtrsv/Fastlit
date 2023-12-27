@@ -1,0 +1,8 @@
+streamlit run Hello.py --server.port 8080
+pip install --upgrade streamlit
+pip install firebase-admin
+streamlit run 👋_Hello.py --server.port 8080
+
+Render:
+Environment Variables -> PYTHON_VERSION=3.10.5
+Start Command -> sh setup.sh && streamlit run Hello.py

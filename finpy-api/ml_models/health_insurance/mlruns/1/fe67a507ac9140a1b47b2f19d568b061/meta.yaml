@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/robert.radoslav/Developer/main/finpy-containerized-app/finpy-api/ml_models/health_insurance/mlruns/1/fe67a507ac9140a1b47b2f19d568b061/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: fe67a507ac9140a1b47b2f19d568b061
+run_uuid: fe67a507ac9140a1b47b2f19d568b061
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676654469258
+status: 1
+tags: []
+user_id: robert.radoslav

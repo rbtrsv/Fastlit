@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/robert.radoslav/Developer/main/finpy-containerized-app/finpy-api/ml_models/mlruns/2/985779ee22e14afe8797f82ed856785c/artifacts
+end_time: 1676677988678
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 985779ee22e14afe8797f82ed856785c
+run_uuid: 985779ee22e14afe8797f82ed856785c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676677689121
+status: 4
+tags: []
+user_id: robert.radoslav

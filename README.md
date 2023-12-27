@@ -1,1 +1,1 @@
-# Fastlit
+# finpy-containerized-app

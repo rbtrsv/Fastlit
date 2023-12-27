@@ -1,0 +1,16 @@
+Generic validations and metadata:
+alias
+title
+description
+deprecated
+
+Validations specific for strings:
+min_length
+max_length
+regex
+
+And you can also declare numeric validations:
+gt: greater than
+ge: greater than or equal
+lt: less than
+le: less than or equal

@@ -1,0 +1,2 @@
+mlflow ui
+python train.py --t 'Response'
