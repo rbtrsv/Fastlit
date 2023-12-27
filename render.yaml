@@ -1,22 +1,20 @@
 services:
 - type: web
-  name: fastapi-service
+  name: fastapi-app
   env: docker
   dockerfilePath: ./fastapi/Dockerfile
   envVars:
-    - key: EXAMPLE_ENV_VAR
-      value: example_value
+    - key: SOME_ENV_VARIABLE
+      value: some_value
   ports:
     - 8000
-  healthCheckPath: /health
 
 - type: web
-  name: streamlit-service
+  name: streamlit-app
   env: docker
   dockerfilePath: ./streamlit/Dockerfile
   envVars:
-    - key: EXAMPLE_ENV_VAR
-      value: example_value
+    - key: SOME_OTHER_ENV_VARIABLE
+      value: another_value
   ports:
     - 8501
-  healthCheckPath: /health
